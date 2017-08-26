@@ -1,0 +1,107 @@
+/*body {
+	background-image: url("../images/background.jpg");
+}*/
+
+* {
+	font-family: 'Saira', sans-serif;
+}
+
+h1{
+	background-color: orange;
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: solid 1px #ddd;
+}
+
+#crystals {
+	margin: 0 auto;
+}
+
+#math {
+	color: red;
+	font-size: 120%;
+}
+
+
+#yourscore {
+	margin-top: 10px;
+}
+
+#wrapper {
+	width: 100%
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#gameInterface {
+	background-color: white;
+	width: 50%;
+	clear:both;
+	padding: 15px;
+	margin-top: 20px;
+	margin: 0 auto;
+}
+
+#guessingNumber {
+	background-color: green;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+	margin: 0 auto;
+}
+
+#scoreboard {
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+	margin: 0 auto;
+
+}
+
+
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+	margin: 0 auto;
+
+}
+
+.value {
+	margin: 0 auto;
+	
+	})
+
+.crystalImage {
+	height: 111px;
+	border: solid 1px #272525;
+	margin: 0 auto;
+}
+
+.crystalImage {
+	margin: 0 left;
+	height: 25%;
+	width: 25%;
+
+}
+
+.container {
+	position: relative;
+	margin: 0 auto;
+}
+
+#totalScore {
+	margin-bottom: 50px;
+	margin: 0 auto;
+}
+
+#yts {
+	display: inline;
+	padding: 20px;
+	margin: 0 auto;
+}
